@@ -1,0 +1,10 @@
+{
+ "name": "JapanApp",
+ "version": "1.0.0",
+ "description": "trying out Vue.js",
+ "author": "Aude-Lise Hernandez",
+ "private": true,
+ "scripts": {
+   "postinstall": "npm install express"
+ }
+}
